@@ -1,8 +1,6 @@
 # Testing Features
-## Kitty =^._.^=
-![Image](../images/shmuss.jpg)
-
-To learn a fun fact about him, see *footnote* [^1]
+## Footnotes 
+To learn a fun fact about my =^._.^=, see *footnote* [^1]
 
 ## Python Code
 ```python
