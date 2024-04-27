@@ -20,9 +20,10 @@ print(hello world)
 1. one
 2. two
 3. three
-[^1]: Fun fact! He is very dumb 
 
 ## Links
 I learned how to do every feature here using the link below.
 
 [REF](https://www.markdownguide.org/cheat-sheet/)
+
+[^1]: Fun fact! He is very dumb 
