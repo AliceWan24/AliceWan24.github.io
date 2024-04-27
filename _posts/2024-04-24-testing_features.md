@@ -1,6 +1,6 @@
 # Testing Features
 ## Kitty =^._.^=
-![Image](images/shmuss.jpg)
+![Image](../images/shmuss.jpg)
 
 To learn a fun fact about him, see *footnote* [^1]
 
