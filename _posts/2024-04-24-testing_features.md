@@ -1,6 +1,6 @@
 # Testing Features
 ## Footnotes 
-To learn a fun fact about my =^._.^=, see *footnote* [^1]
+To learn a fun fact about my `=^._.^=`, see *footnote* [^1]
 
 ## Python Code
 ```python
@@ -10,16 +10,13 @@ print(hello world)
 
     hello world 
 
-## Tables and Lists 
-`Table`
-| Column 1 | Column 2 |
-|-|-|
-| one | two |
-
-`List`
+## Lists 
 1. one
 2. two
 3. three
+
+## Equations
+Quadratic equation: $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a}$$
 
 ## Links
 I learned how to do every feature here using the link below.
