@@ -12,9 +12,9 @@ print(hello world)
 
 ## Tables and Lists 
 `Table`
-| Column 1 | Column 2 | Column 3 |
-|-|-|-|
-| one | two | three |
+| Column 1 | Column 2 |
+|-|-|
+| one | two |
 
 `List`
 1. one
@@ -25,5 +25,7 @@ print(hello world)
 I learned how to do every feature here using the link below.
 
 [REF](https://www.markdownguide.org/cheat-sheet/)
+
+---
 
 [^1]: Fun fact! He is very dumb 
