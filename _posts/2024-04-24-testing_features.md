@@ -1,6 +1,6 @@
 # Testing Features
 ## Kitty =^._.^=
-![Image description](images/shmuss.jpg)
+![This is my cat, his name is busington](images/shmuss.jpg)
 > To learn a fun fact about him, see *footnote* [^1]
 ---
 ## Python Code
